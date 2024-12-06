@@ -2,8 +2,9 @@ package main
 import "fmt"
 
 func main() {
-  passwd := "0223324-fsd"  
-  password := "Password"
+  aws_access_key =: "AKIAIOSFODNN7EXAMPLE"
+  aws_secret_access_key =: "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+
   
   fmt.Println("hello world")
 }
